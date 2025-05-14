@@ -1,0 +1,22 @@
+
+body {
+  font-family: sans-serif;
+  background: linear-gradient(to right, #ffdde1, #ee9ca7);
+  color: #333;
+  text-align: center;
+  padding: 20px;
+}
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #ff7f50;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+}
+img {
+  max-width: 90%;
+  margin-top: 20px;
+  border-radius: 15px;
+}
